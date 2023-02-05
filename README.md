@@ -1,3 +1,3 @@
 # Books api
 
-## Simple rails api for thinknetica course
+Simple rails api for thinknetica course
